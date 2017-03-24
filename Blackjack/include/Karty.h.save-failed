@@ -1,0 +1,50 @@
+#ifndef KARTY_H
+#define KARTY_H
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
+
+class Karty
+{
+    public:
+        int z,x,y;
+        int pz, px;
+        int py, pw;
+      int  generowanie();
+      int  sumowanie();
+      int  kart(int c);
+      int  karty(int c, int d);
+      int  sprawdzenie(int c, int d);
+      int  sprawdzenie1(int c);
+      int  losowanie();
+      int  losowanie(int c, int d);
+      int  losowanie(int c, int d, int e, int f);
+    protected:
+        int tab[13][4];
+        int suma, suma1, suma2, suma3, suma4, suma5;
+      //  int pz, px;
+      //  int py, pw;
+        int pv, pu;
+
+    private:
+};
+class Gracz:public Karty
+{
+    public:
+    int    konsola();
+    protected:
+    private:
+
+
+
+};
+class Krupier:public Karty
+{
+    public:
+    protected:
+    private:
+
+};
+
+#endif

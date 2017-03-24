@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1463568520 source:c:\users\dzerry\desktop\projektcpp\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Karty.h"
+
+1466614930 c:\users\dzerry\desktop\projektcpp\include\karty.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1466666392 source:c:\users\dzerry\desktop\projektcpp\src\karty.cpp
+	"Karty.h"
+
+1466611952 source:c:\users\dzerry\desktop\projektcpp\sumowanie.cpp
+	"Karty.h"
+
+1466611302 source:c:\users\dzerry\desktop\projektcpp\losowania.cpp
+	"Karty.h"
+
+1466605610 source:c:\users\dzerry\desktop\projektcpp\sprawdzenie.cpp
+	"Karty.h"
+
+1465456716 source:\\tarski\studenci\alan.andrzejak\desktop\projektcpp\losowania.cpp
+	"Karty.h"
+
+1465457044 \\tarski\studenci\alan.andrzejak\desktop\projektcpp\include\karty.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1465456943 source:\\tarski\studenci\alan.andrzejak\desktop\projektcpp\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Karty.h"
+
+1464849383 source:\\tarski\studenci\alan.andrzejak\desktop\projektcpp\sprawdzenie.cpp
+	"Karty.h"
+
+1465456249 source:\\tarski\studenci\alan.andrzejak\desktop\projektcpp\src\karty.cpp
+	"Karty.h"
+
+1464849383 source:\\tarski\studenci\alan.andrzejak\desktop\projektcpp\sumowanie.cpp
+	"Karty.h"
+
+1464849382 source:\\tarski\studenci\alan.andrzejak\desktop\projektcpp\dzialanie.cpp
+	"Karty.h"
+
+1464849382 source:\\tarski\studenci\lukasz.hoinka\desktop\projektcpp\dzialanie.cpp
+	"Karty.h"
+
+1464850072 \\tarski\studenci\lukasz.hoinka\desktop\projektcpp\include\karty.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1464849382 source:\\tarski\studenci\lukasz.hoinka\desktop\projektcpp\losowania.cpp
+	"Karty.h"
+
+1464849383 source:\\tarski\studenci\lukasz.hoinka\desktop\projektcpp\sprawdzenie.cpp
+	"Karty.h"
+
+1464849384 source:\\tarski\studenci\lukasz.hoinka\desktop\projektcpp\src\karty.cpp
+	"Karty.h"
+
+1464849383 source:\\tarski\studenci\lukasz.hoinka\desktop\projektcpp\sumowanie.cpp
+	"Karty.h"
+
+1464851069 source:\\tarski\studenci\lukasz.hoinka\desktop\projektcpp\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Karty.h"
+
+1464852984 source:c:\users\£ukasz\desktop\projektcpp\dzialanie.cpp
+	"Karty.h"
+
+1466542127 c:\users\£ukasz\desktop\projektcpp\include\karty.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1465460318 source:c:\users\£ukasz\desktop\projektcpp\losowania.cpp
+	"Karty.h"
+
+1466544023 source:c:\users\£ukasz\desktop\projektcpp\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Karty.h"
+
+1466541042 source:c:\users\£ukasz\desktop\projektcpp\sprawdzenie.cpp
+	"Karty.h"
+
+1465459850 source:c:\users\£ukasz\desktop\projektcpp\src\karty.cpp
+	"Karty.h"
+
+1466542350 source:c:\users\£ukasz\desktop\projektcpp\sumowanie.cpp
+	"Karty.h"
+
+1466613233 source:c:\users\dzerry\desktop\od lukasza last\projektcpp\dzialanie.cpp
+	"Karty.h"
+
+1466622131 c:\users\dzerry\desktop\od lukasza last\projektcpp\include\karty.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1466618503 source:c:\users\dzerry\desktop\od lukasza last\projektcpp\losowania.cpp
+	"Karty.h"
+
+1466673540 source:c:\users\dzerry\desktop\od lukasza last\projektcpp\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Karty.h"
+
+1466612810 source:c:\users\dzerry\desktop\od lukasza last\projektcpp\sprawdzenie.cpp
+	"Karty.h"
+
+1466673593 source:c:\users\dzerry\desktop\od lukasza last\projektcpp\src\karty.cpp
+	"Karty.h"
+
+1466619152 source:c:\users\dzerry\desktop\od lukasza last\projektcpp\sumowanie.cpp
+	"Karty.h"
+
+1466673840 source:c:\users\dzerry\desktop\od lukasza last\projektcpp\pula.cpp
+	"Karty.h"
+
+1466611302 source:c:\users\dzerry\desktop\zmieniam rzeczy\losowania.cpp
+	"Karty.h"
+
+1466614930 c:\users\dzerry\desktop\zmieniam rzeczy\include\karty.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1466605610 source:c:\users\dzerry\desktop\zmieniam rzeczy\sprawdzenie.cpp
+	"Karty.h"
+
+1466666392 source:c:\users\dzerry\desktop\zmieniam rzeczy\src\karty.cpp
+	"Karty.h"
+
+1466611952 source:c:\users\dzerry\desktop\zmieniam rzeczy\sumowanie.cpp
+	"Karty.h"
+
+1490366073 source:c:\users\dzerry\desktop\zmieniam rzeczy\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Karty.h"
+
+1490366363 source:c:\users\dzerry\desktop\zmieniam rzeczy\pula.cpp
+	"Karty.h"
+
+1466611302 source:c:\users\dzerry\desktop\blackjack\losowania.cpp
+	"Karty.h"
+
+1466614930 c:\users\dzerry\desktop\blackjack\include\karty.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1490366363 source:c:\users\dzerry\desktop\blackjack\pula.cpp
+	"Karty.h"
+
+1466605610 source:c:\users\dzerry\desktop\blackjack\sprawdzenie.cpp
+	"Karty.h"
+
+1466666392 source:c:\users\dzerry\desktop\blackjack\src\karty.cpp
+	"Karty.h"
+
+1466611952 source:c:\users\dzerry\desktop\blackjack\sumowanie.cpp
+	"Karty.h"
+
