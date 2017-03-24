@@ -1,0 +1,1 @@
+Console BlackJack project made in Jun 2016 to pass a 1st year.
